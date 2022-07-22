@@ -1,0 +1,7 @@
+{
+  "name": "facejob02",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

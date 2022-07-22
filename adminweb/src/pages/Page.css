@@ -1,0 +1,42 @@
+.ion-title {
+    color: #f8f5f2;
+}
+.abs {
+    background-color: #f8f5f2;
+}
+
+.IonLabel {
+    font-size: small;
+}
+.editor-image-preview {
+    cursor: zoom-in;
+}
+.iconSize {
+    width: 3em;
+    height: 3em;
+}
+.list_row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+.postIconSize {
+    width: 2em;
+    height: 2em;
+}
+.rowTop {
+    margin-bottom: 30px;
+}
+.chartCard {
+    padding: 20px;
+}
+
+.background {
+    background-color: #f8f5f2;
+}
+
+.row_row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}

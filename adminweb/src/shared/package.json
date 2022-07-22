@@ -1,0 +1,17 @@
+{
+    "name": "shared",
+    "version": "1.0.0",
+    "description": "",
+    "main": "build/index.js",
+    "types": "build/index.d.ts",
+    "scripts": {
+        "prepare": "tsc",
+        "dev": "tsc --watch"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.3.5"
+    },
+    "dependencies": {}
+}
