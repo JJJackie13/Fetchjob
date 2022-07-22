@@ -54,7 +54,6 @@ build/
 .gradle
 local.properties
 *.iml
-android/
 *.hprof
 
 
